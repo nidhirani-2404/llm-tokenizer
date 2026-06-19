@@ -18,6 +18,8 @@ pip install -r requirements.txt
 
 ```bash
 python tokenizer.py
+python detokenizer.py
+
 ```
 
 ---

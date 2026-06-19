@@ -14,6 +14,7 @@ A simple Python project to understand how **GPT models tokenize text** using the
 pip install -r requirements.txt
 ```
 
+
 ## 🚀 Run
 
 ```bash
